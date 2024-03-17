@@ -1,0 +1,4 @@
+2009-05-18  Calum Benson <calum@gnome.org>
+
+	* *: The ChangeLog is now auto-generated when releasing. If you
+	are seeing this, use 'git log' for a detailed list of changes.
